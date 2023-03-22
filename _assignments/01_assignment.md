@@ -7,6 +7,6 @@ attachment: /static_files/assignments/01_assignment.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2023-03-31T23:59:59
+    date: 2023-04-01T23:59:59
     description: 'Assignment #1 due'
 ---
